@@ -411,3 +411,4 @@ class _BarChartWidget extends StatelessWidget {
     );
   }
 }
+// Note: The above code defines the `AccidentesView` widget, which displays various statistics about accidents using pie charts and bar charts. It fetches raw accident data, processes it using an isolate to compute statistics, and then visualizes the results. The view also includes error handling and a loading state with skeleton placeholders.
