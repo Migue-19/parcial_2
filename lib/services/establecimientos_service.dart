@@ -295,3 +295,4 @@ class EstablecimientosService {
     }
   }
 }
+// Note: The above code defines the `EstablecimientosService` class, which provides methods to interact with the API for managing establishments. It includes methods for fetching all establishments, fetching a single establishment by ID, creating a new establishment, updating an existing establishment, and deleting an establishment. The service also includes robust error handling and logging to assist with debugging and development.
