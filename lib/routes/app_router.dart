@@ -106,3 +106,4 @@ class _EstablecimientoLoaderState extends State<_EstablecimientoLoader> {
     return EstablecimientoDetailView(establecimiento: _est!);
   }
 }
+// Note: The above code defines the routing configuration for the application using the `go_router` package. It includes routes for the home view, accidents view, establishments list view, establishment detail view, and establishment form view (for both creating and editing). The `_EstablecimientoLoader` widget is used to fetch an establishment by ID when navigating to the detail or edit views without passing the establishment data in `extra`.
