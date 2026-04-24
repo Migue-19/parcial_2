@@ -252,3 +252,4 @@ class _EstablecimientoTile extends StatelessWidget {
     );
   }
 }
+// Note: The above code defines the `EstablecimientosListView` widget, which displays a list of establishments fetched from the API. It includes error handling, loading states with skeleton placeholders, and navigation to detail and creation views for establishments. Each establishment is displayed in a card with its name, NIT, address, and logo (if available).
