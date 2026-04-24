@@ -60,3 +60,4 @@ class AccidentesService {
     }
   }
 }
+// Note: The above code assumes that the `calcularStatsAccidentesIsolate` function is defined in the `accidentes_stats_isolate.dart` file and that it takes a list of accident records and returns a map with the computed statistics.
