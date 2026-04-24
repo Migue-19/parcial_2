@@ -290,3 +290,4 @@ class _SummaryTile extends StatelessWidget {
     );
   }
 }
+// Note: The above code defines the `HomeView` widget, which serves as the main dashboard of the application. It displays summary cards for the total number of accidents and establishments, and provides navigation to the respective modules for detailed views. The view also includes a visually appealing header with gradients and decorative elements, and uses skeleton placeholders while loading data from the services.
