@@ -262,3 +262,4 @@ class _DetailRow extends StatelessWidget {
     );
   }
 }
+// Note: The above code defines the `EstablecimientoDetailView` widget, which displays detailed information about a specific establishment. It includes the establishment's name, NIT, address, phone number, and logo (if available). The view also provides options to edit or delete the establishment, with appropriate confirmation dialogs and error handling.
