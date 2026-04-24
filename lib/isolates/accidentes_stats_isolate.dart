@@ -94,3 +94,4 @@ String _normalizarDia(String dia) {
   };
   return mapa[lower] ?? 'Desconocido';
 }
+// Note: The above code defines the `calcularStatsAccidentesIsolate` function, which processes a list of accident records and computes statistics based on the class of accident, severity, neighborhood, and day of the week. The function is designed to be run in an isolate to avoid blocking the main thread during heavy computations.
