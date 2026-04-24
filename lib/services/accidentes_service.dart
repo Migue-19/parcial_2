@@ -60,4 +60,5 @@ class AccidentesService {
     }
   }
 }
+// Note: The above code defines the `AccidentesService` class, which provides methods to fetch raw accident data from the API, convert it into a list of `Accidente` objects, and compute statistics using an isolate to avoid blocking the main thread. The service includes robust error handling and logging to assist with debugging and development.
 // Note: The above code assumes that the `calcularStatsAccidentesIsolate` function is defined in the `accidentes_stats_isolate.dart` file and that it takes a list of accident records and returns a map with the computed statistics.
