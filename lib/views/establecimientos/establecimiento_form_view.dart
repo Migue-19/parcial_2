@@ -361,3 +361,4 @@ class _FormField extends StatelessWidget {
     );
   }
 }
+// Note: The above code defines the `EstablecimientoFormView` widget, which is used for both creating a new establishment and editing an existing one. It includes form fields for the establishment's name, NIT, address, and phone number, as well as a selector for the logo image. The form includes validation and error handling, and interacts with the `EstablecimientosService` to save the data to the backend API.
